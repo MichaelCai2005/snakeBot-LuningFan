@@ -1,0 +1,25 @@
+tighter range, (my new choice !!!! herein, I set up multSin and cos to 50 and 1) (I go with the middle set: KK_best2, AA_best2, ...)
+
+KK_best1 1.30000e+01 
+AA_best1 6.50000e-01 
+ww_best1 1.50000e-01 
+lx_best1 5.60000e-02 
+multSin_best1 1.00000e+00 
+tStartIdx1 2.39000e+02 
+RFTstartTimeBest1 2.56000e+00 
+
+KK_best2 1.30000e+01 
+AA_best2 6.40000e-01 
+ww_best2 1.50000e-01 
+lx_best2 5.60000e-02 
+multSin_best2 1.00000e+00 
+tStartIdx2 2.38000e+02 
+RFTstartTimeBes2 2.670000e+00 
+
+KK_best3 1.30000e+01 
+AA_best3 6.30000e-01 
+ww_best3 1.50000e-01 
+lx_best3 5.50000e-02 
+multSin_best3 1.00000e+00 
+tStartIdx3 2.38000e+02 
+RFTstartTimeBest3 2.58500e+00 

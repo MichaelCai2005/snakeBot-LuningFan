@@ -1,0 +1,4 @@
+experimentalRobot.mat : x,z,xc,zc all from Jennifer
+experimentalRobot_7thComp : xc7,zc7 of the 7th robot from the aforementioned file
+experimentalRobot_7thComp_swapped : xe,ze where xe = zc7 and ze = xc7, and non ascending and NaN numbers removed from xe
+positionAndForceDataOnPeg.mat: experimental force on a peg

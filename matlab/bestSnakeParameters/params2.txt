@@ -1,0 +1,25 @@
+tighter range, (my old choice !!!!)
+
+KK_best1 1.25000e+01 
+AA_best1 7.00000e-01 
+ww_best1 1.40000e-01 
+lx_best1 5.80000e-02 
+multSin_best1 0.00000e+00 
+tStartIdx1 2.47000e+02 
+RFTstartTimeBest1 2.70000e+00 
+
+KK_best2 1.31000e+01 
+AA_best2 6.30000e-01 
+ww_best2 1.50000e-01 
+lx_best2 5.50000e-02 
+multSin_best2 1.00000e-01 
+tStartIdx2 2.43000e+02 
+RFTstartTimeBes2 2.67000e+00 
+
+KK_best3 1.30000e+01 
+AA_best3 6.40000e-01 
+ww_best3 1.50000e-01 
+lx_best3 5.60000e-02 
+multSin_best3 1.00000e-01 
+tStartIdx3 2.38000e+02 
+RFTstartTimeBest3 2.65000e+00 

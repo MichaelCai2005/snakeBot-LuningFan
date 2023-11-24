@@ -1,0 +1,25 @@
+wider range, large weight (large weight for initial shape, which is 1000: objective function = 1000 * initDrift + pathDrift)
+
+KK_best1 1.20000e+01 
+AA_best1 6.85000e-01 
+ww_best1 1.40000e-01 
+lx_best1 5.80000e-02 
+multSin_best1 0.00000e+00 
+tStartIdx1 2.42000e+02 
+RFTstartTimeBest1 2.67000e+00
+ 
+KK_best2 1.20000e+01 
+AA_best2 7.00000e-01 
+ww_best2 1.40000e-01 
+lx_best2 5.90000e-02 
+multSin_best2 0.00000e+00 
+tStartIdx2 2.47000e+02 
+RFTstartTimeBes2 2.60000e+00 
+
+KK_best3 1.20000e+01 
+AA_best3 7.00000e-01 
+ww_best3 1.40000e-01 
+lx_best3 5.90000e-02 
+multSin_best3 0.00000e+00 
+tStartIdx3 2.47000e+02 
+RFTstartTimeBest3 2.65000e+00 

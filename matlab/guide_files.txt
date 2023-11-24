@@ -1,0 +1,14 @@
+CompareWithExperiment: use this file to compare the simulation with the experiment data. It finds the best start point in the experiment data for the match. It also shows the comparison of the dynamics
+
+findMinVerticalDisplacement : use this file to find the best rft start time for the minimum drift
+findLocalMaxAndMin : this file is used within the one on top
+
+getPositionAndSpeedData : this file retrieve the position data from outputs of the simulation. The outputs are sname.rft/cot/jnt. this file is called with the runChrono and runChronoSweep
+importForceData : imports the force on the components
+
+ParametricSweepInitConfig : wrapper file to call simulation for given set of inputs and give out a single value of the diference between sim and experiment. This file includes tha multiple nested loop to configure the best initial condition.
+ParametricSweepInitConfig_limittedParams : similar to the above, however it is simplified to find the best AA, lx, and rftStartTime only.
+CurvesDrift : a function that runs chrono for a given set of input parameters and finds the total drift.
+
+runChrono : runsChrono for a given set of parameters and give out the postion data
+runChornoSweep : runChrono, but alse sweeps over a range of parameters

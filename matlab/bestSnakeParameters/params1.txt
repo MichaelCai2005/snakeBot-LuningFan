@@ -1,0 +1,9 @@
+wider range, small weights (low weight for initial shape, which is 4: objective function = 4 * initDrift + pathDrift)
+
+KK_best3 1.20000e+01 
+AA_best3 7.00000e-01 
+ww_best3 1.40000e-01 
+lx_best3 5.90000e-02 
+multSin_best3 0
+tStartIdx3 2.47000e+02 
+RFTstartTimeBest3 2.60000e+00 
